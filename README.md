@@ -25,6 +25,7 @@ Our preprocessing followed Animatable Neural Radiance Fields from Monocular RGB 
 
 Training
 python train_splatting_avatar.py --config configs/splatting_avatar.yaml;configs/instant_avatar.yaml --dat_dir <path/to/subject> --deform_on 1 --model_path <path/to/subject/output-splatting/> 
+
 Evaluation
 python eval_animate.py --config "configs/splatting_avatar.yaml;configs/instant_avatar.yaml" --dat_dir /path-to/female-3-casual --pc_dir /path-to/female-3-casual/output-splatting/last_checkpoint/point_cloud/iteration_50000 --anim_fn /path-to/aist_demo.npz
 
