@@ -20,7 +20,7 @@ pip install .
 
 pip install -r requirements.txt
 
-Preparing dataset
+#Preparing dataset
 Our preprocessing followed Animatable Neural Radiance Fields from Monocular RGB Videos.
 
 #Training
