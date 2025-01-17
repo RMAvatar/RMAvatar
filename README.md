@@ -4,13 +4,13 @@
 
 Create conda env with pytorch.
 
-conda create -n splatting python=3.10
+conda create -n rmavatar python=3.10
 
 conda activate rmavatar
 
 pytorch 2.0.1+cu117 is tested
 
-## **install other dependencies**
+## **Install other dependencies**
 
 git clone https://github.com/graphdeco-inria/diff-gaussian-rasterization.git
 
