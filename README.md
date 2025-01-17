@@ -44,6 +44,8 @@ If you find our code or paper useful, please cite as:
 ## Acknowledgement
 We thank the following authors for their excellent works!
 - [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+- [GaussianAvatars](https://github.com/ShenhanQian/GaussianAvatars)
+- [Gaussian Splatting](https://github.com/initialneil/SplattingAvatar)
 - [Anim-Nerf](https://github.com/JanaldoChen/Anim-NeRF)
 - [InstantAvatar](https://github.com/tijiang13/InstantAvatar)
 
