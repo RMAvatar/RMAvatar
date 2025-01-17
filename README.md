@@ -18,7 +18,7 @@ cd simple-knn
 pip install .
 pip install -r requirements.txt
 ```
-## Full-body Avatar
+## Human Avatar
 We conducted experiments on [PeopleSnapshot](https://graphics.tu-bs.de/people-snapshot).
 - Please download the parameter files (the same with Anim-NeRF) from: [Baidu Disk](https://pan.baidu.com/s/1CSi2iujDb2vd6pWkRaJsTw?pwd=is8s)
 - Download 4 sequences from PeopleSnapshot (male/female-3/4-casual) and unzip `images` and `masks` to corresponding folders from above.
