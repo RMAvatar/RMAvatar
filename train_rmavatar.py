@@ -5,8 +5,8 @@ from gaussian_renderer import network_gui
 from datetime import datetime
 from tqdm import tqdm
 from omegaconf import OmegaConf
-from model.splatting_avatar_model import SplattingAvatarModel
-from model.splatting_avatar_optim import SplattingAvatarOptimizer
+from model.rmavatar_model import SplattingAvatarModel
+from model.rmavatar_optim import SplattingAvatarOptimizer
 from model.loss_base import run_testing
 from dataset.dataset_helper import make_frameset_data, make_dataloader
 from model import libcore
